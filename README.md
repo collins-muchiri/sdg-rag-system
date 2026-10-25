@@ -1,5 +1,11 @@
 # SDG RAG System - Quick Start Guide
 
+*SDG-Trans-RAG — AI urban intelligence integrating UN-Habitat SDG 11 frameworks with multi-modal transport data; Python RAG.*
+
+![category](https://img.shields.io/badge/category-data-science-0EA5E9?style=flat-square) ![language](https://img.shields.io/badge/language-Python-2563EB?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-sdg--rag--system-111827?style=flat-square)
+
+---
+
 ## 🚀 Project Overview
 
 This is a comprehensive RAG (Retrieval-Augmented Generation) based system for UN/UN Habitat SDG file management and searching. The system automatically processes documents, classifies them by Sustainable Development Goals, and provides intelligent search capabilities with real-time transportation data integration.
@@ -223,3 +229,7 @@ For issues and questions:
 5. **Deploy**: Scale for production use
 
 This system provides a comprehensive foundation for UN/UN Habitat SDG document management with real-time data integration and AI-powered search capabilities.
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. This project is released under the MIT License.
