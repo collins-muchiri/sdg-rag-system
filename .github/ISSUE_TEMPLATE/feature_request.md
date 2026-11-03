@@ -19,7 +19,7 @@ A clear and concise description of any alternative solutions or features you've 
 Add any other context, mockups, or screenshots about the feature request here.
 
 **SDG Goals Impact**
-Which SDG goals would this feature support? (e.g., SDG 11 - Sustainable Cities, SDG 13 - Climate Action)
+Which SDG goals would this feature support? (e.g., SDG 11, Sustainable Cities, SDG 13: Climate Action)
 
 **API Integration**
 Would this require new external API integrations? If so, which ones?

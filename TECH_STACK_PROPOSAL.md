@@ -1,4 +1,4 @@
-# RAG-Based SDG File Management System - Technology Stack Proposal
+# RAG-Based SDG File Management System: Technology Stack Proposal
 
 ## 1. Technology Stack Overview
 
